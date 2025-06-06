@@ -1,3 +1,5 @@
+## If you want an idea of what I code, check out [this project](https://github.com/BloodLantern/Mountain)
+
 ## My coding stats
 
 [![Anurag's GitHub stats](https://github-readme-stats-bloodlanterns-projects.vercel.app/api?username=BloodLantern)](https://github.com/BloodLantern/github-readme-stats)
